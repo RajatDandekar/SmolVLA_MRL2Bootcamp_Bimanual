@@ -34,18 +34,19 @@ This builds on the single-arm [SmolVLA_MRL2Bootcamp](https://github.com/RajatDan
 
 ### Bimanual Inference Runs
 
-These videos show the trained SmolVLA model autonomously controlling both arms. Download from the [v1.0 Release](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/tag/v1.0) or click individual links below:
+These videos show the trained SmolVLA model autonomously controlling both arms:
 
-| Video | Download |
-|-------|----------|
-| Inference Run 1 | [IMG_3628.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3628.mp4) |
-| Inference Run 2 | [IMG_3631.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3631.mp4) |
-| Inference Run 3 | [IMG_3623.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3623.mp4) |
-| Inference Run 4 | [IMG_3612.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3612.mp4) |
-| Inference Run 5 | [IMG_3634.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3634.mp4) |
-| Inference Run 6 | [IMG_3636.mp4](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/releases/download/v1.0/IMG_3636.mp4) |
+https://github.com/user-attachments/assets/40563d40-4266-496d-94a0-8c7849724294
 
-> **To add inline playable videos:** Open a [new Issue](https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/issues/new) on this repo, drag-and-drop the `.mp4` files from the `docs/video/` folder into the comment box, copy the generated `https://github.com/user-attachments/assets/...` URLs, and paste them directly into this README (one per line, no markdown). GitHub will render them as inline playable videos.
+https://github.com/user-attachments/assets/e7fcce3d-6230-46fb-8c0f-a0d66d24f43e
+
+https://github.com/user-attachments/assets/81d5186e-a9dd-4fd7-928d-f4625dc280a5
+
+https://github.com/user-attachments/assets/8093f994-f2e9-427c-b626-fe461a511ae3
+
+https://github.com/user-attachments/assets/a5bac577-2965-4623-a6ee-f3a74d0be60a
+
+https://github.com/user-attachments/assets/3f993f83-a6bb-45a3-b5df-c432b127b87e
 
 ---
 
