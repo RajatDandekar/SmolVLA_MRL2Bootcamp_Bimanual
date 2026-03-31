@@ -40,19 +40,17 @@ This builds on the single-arm [SmolVLA_MRL2Bootcamp](https://github.com/RajatDan
 
 These videos show the trained SmolVLA model autonomously controlling both arms:
 
-https://github.com/user-attachments/assets/placeholder-3628
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3628.mp4" controls width="640"></video>
 
-https://github.com/user-attachments/assets/placeholder-3631
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3631.mp4" controls width="640"></video>
 
-https://github.com/user-attachments/assets/placeholder-3623
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3623.mp4" controls width="640"></video>
 
-https://github.com/user-attachments/assets/placeholder-3612
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3612.mp4" controls width="640"></video>
 
-https://github.com/user-attachments/assets/placeholder-3634
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3634.mp4" controls width="640"></video>
 
-https://github.com/user-attachments/assets/placeholder-3636
-
-> **Note:** Videos are also available in the `docs/video/` directory as compressed MP4 files.
+<video src="https://github.com/RajatDandekar/SmolVLA_MRL2Bootcamp_Bimanual/raw/main/docs/video/IMG_3636.mp4" controls width="640"></video>
 
 ---
 
